@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(245, 225, 137);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+h2{
+    color: rgb(32, 32, 196);
+    text-decoration:underline overline wavy rgb(202, 55, 10);
+    text-underline-offset: 10px;
+}

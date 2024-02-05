@@ -1,0 +1,10 @@
+body{
+    background-color:#6d6d45 ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.menu a {margin-right: 180px; 
+color:black;
+text-decoration: none;}
+.menu a:hover {color:rgb(153, 9, 9); 
+    text-decoration:none;}
