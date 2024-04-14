@@ -1,10 +1,16 @@
 body{
-    background-color:#6d6d45 ;
+    background-color:black ;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
 }
-.menu a {margin-right: 180px; 
-color:black;
+.menu a {margin-inline-start: 250px; 
+color:white;
 text-decoration: none;}
 .menu a:hover {color:rgb(153, 9, 9); 
     text-decoration:none;}
+p{
+    color:white;
+}
+h1{
+    color:white;
+}
