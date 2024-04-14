@@ -1,5 +1,5 @@
 body{
-    background-color: #6473b8;
+    background-color: black;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
 }
@@ -52,15 +52,21 @@ summary {
   }
   
   summary {
-    background-color: #5cd7fc;
-    color: #000000;
+    background-color: black;
+    color: white;
     border-radius: 5px;
   }
   
   details[open] summary {border-radius: 5px 5px 0 0;}
   
   details {
-    background: #6671cc;
+    background: black;
     border-radius: 5px;
   }
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
   
