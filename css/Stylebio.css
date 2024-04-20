@@ -4,12 +4,10 @@ body{
     font-size: 20px;
 }
 h2{
-    color: rgb(32, 32, 196);
-    text-decoration:underline overline wavy rgb(202, 55, 10);
-    text-underline-offset: 10px;
+    color: #BFB574;
 }
 h1{
-    color:white;
+    color:#A30D0D;
 }
 p{
     color:white;
