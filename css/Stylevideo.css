@@ -17,4 +17,8 @@ h1{
 p{
     color: white;
 }
-
+.menu a {
+    color:rgb(255, 255, 255);
+    text-decoration: none;}
+.menu a:hover {color:rgb(153, 9, 9); 
+    text-decoration:none;}
